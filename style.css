@@ -1,0 +1,21 @@
+:root {
+  font-family:"Open Sans", sans-serif;
+  font-size: 16px;
+  
+}
+
+#page {
+  width: 800px;
+  padding: 24px;
+
+}
+
+body {
+  background-color: #F5F4F0;
+}
+
+#img1 {
+ width: 1120px;
+ height: 660px;
+ border-radius: 28px;
+}
